@@ -1,5 +1,3 @@
-# Ignore all plugins
+# Ignore all plugins except the plugin manager (TPM)
 plugins/*
-
-# Do not ignore the plugin manager itself (TPM)
 !plugins/tpm/
