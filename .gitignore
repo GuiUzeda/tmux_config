@@ -1,0 +1,5 @@
+# Ignore all plugins
+plugins/*
+
+# Do not ignore the plugin manager itself (TPM)
+!plugins/tpm/
